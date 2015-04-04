@@ -1,3 +1,4 @@
+/*along y=x line */
 #include<stdio.h>
 #include<graphics.h>
 int maxx, maxy, midx, midy;
